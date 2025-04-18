@@ -1,6 +1,2 @@
-linter: jetbrains/qodana-python
-failThreshold: 5
-excludes:
-  - tests/
-  - docs/
-
+version: "1.0"
+linter: jetbrains/qodana-python:2024.3
